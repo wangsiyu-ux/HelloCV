@@ -4,6 +4,7 @@
 -'docs/':https://www.yuque.com/ylangylang/agd4w1/ispyymw2m1fadov7?singleDoc# 《#配置git开发环境》
 -'docs/':https://www.yuque.com/ylangylang/agd4w1/qnsfts5mw0qiz4gq?singleDoc# 《#安装Open CV 4.5.x》
 -'docs/':https://www.yuque.com/ylangylang/agd4w1/hh5exhgife9cv5it?singleDoc# 《#安装ROS2》
+-'docs/':https://www.yuque.com/ylangylang/agd4w1/ld82sdgnwwcsespp?singleDoc# 《#linux系统基础与开发环境搭建》
 
 
 -'scripts/':＃环境配置脚本
