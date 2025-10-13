@@ -7,11 +7,4 @@
 -'docs/':https://www.yuque.com/ylangylang/agd4w1/ispyymw2m1fadov7?singleDoc# 《#配置git开发环境》
 _'docs/':https://www.yuque.com/ylangylang/agd4w1/vhmmpgxngbn5c72f?singleDoc# 《#Git版本控制》
 
--'scripts/':＃环境配置脚本
-#!/bin/bash
-
-# source /opt/ros/humble/setup.bash
-
-# export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/lib/x86_64-linux-gnu/opencv4
-
-# export ROS_DOMAIN_ID=0
+ 
