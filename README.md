@@ -5,7 +5,7 @@
 -'docs/':https://www.yuque.com/ylangylang/agd4w1/ld82sdgnwwcsespp?singleDoc# 《#linux系统基础与开发环境搭建》
 -'docs/':https://www.yuque.com/ylangylang/agd4w1/ks115ga1nsmk08hc?singleDoc# 《#配置VS Code开发环境》
 -'docs/':https://www.yuque.com/ylangylang/agd4w1/ispyymw2m1fadov7?singleDoc# 《#配置git开发环境》
-
+_'docs/':https://www.yuque.com/ylangylang/agd4w1/vhmmpgxngbn5c72f?singleDoc# 《#Git版本控制》
 
 -'scripts/':＃环境配置脚本
 #!/bin/bash
